@@ -8,6 +8,7 @@ index ebd6a3b..57346ba 100644
  	// This is where other plugins get plugged in (imported)
 +	_ "github.com/abiosoft/caddy-git"
 +	_ "blitznote.com/src/caddy.upload"
++	_ "github.com/hacdias/caddy-hugo"
  )
  
  func init() {
